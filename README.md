@@ -1,5 +1,6 @@
 # Welcome to my Github 🖖
 
+- 🔭 I’m currently working on an awesome Chrome Extension (out soon)
 - 🎶 I make music as [Voltage Controlled Humanoid](https://soundcloud.com/vch-psy/)
 - 🔺 I make designs and animations as [tetra.hedra](https://www.instagram.com/tetra.hedra/)
 
