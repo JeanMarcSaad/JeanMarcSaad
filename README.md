@@ -1,5 +1,8 @@
 # Welcome to my Github 🖖
 
+- 🎶 I make music as [Voltage Controlled Humanoid](https://soundcloud.com/vch-psy/)
+- 🔺 I make designs and animations as [tetra.hedra](https://www.instagram.com/tetra.hedra/)
+
 <!-- **JeanMarcSaad/JeanMarcSaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
