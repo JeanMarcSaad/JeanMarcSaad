@@ -3,7 +3,7 @@
 - ⚡  [Packr](https://github.com/JeanMarcSaad/packr/) is out, the best Chrome tab manager you've never used!
 - 🔭  ~~I’m currently working on an awesome Chrome Extension (out soon)~~
 - 🎶  I make music as [Voltage Controlled Humanoid](https://soundcloud.com/vch-psy/)
-- 🔺  I make designs and animations as [tetra.hedra](https://www.instagram.com/tetra.hedra/)
+- 🔺  I make designs and animations as [tetra.hedra](https://www.instagram.com/tetra.hedra/) & [yugen.png](https://www.instagram.com/yugen.png/)
 
 <!-- **JeanMarcSaad/JeanMarcSaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
